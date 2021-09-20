@@ -4,18 +4,4 @@ A stock market tracking application that allows you to track the market and add 
 
 * Ruby version 2.5.1
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* UPDATE. IEX api doesn't work unless signed up for a monthly subscription. Sandbox doesn't work on their website.(09/20/21)
